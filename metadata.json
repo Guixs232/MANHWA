@@ -1,0 +1,7 @@
+{
+  "name": "ManhwaAI Translator",
+  "description": "Automatic Manhwa translation using AI OCR and inpainting. Translate pages from Webtoons or MangaDex instantly.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
